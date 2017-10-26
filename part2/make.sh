@@ -1,0 +1,1 @@
+gcc obstacle.cpp -Wall -O3 -lstdc++ -std=c++11
